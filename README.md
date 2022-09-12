@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : Ezhil Mathi.R
-### Roll no : 212221230026
+### Name : VISHAL GOWTHAMAN K R 
+### Roll no : 212221230123
 ### Date of experiment : 12.09.2022
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
