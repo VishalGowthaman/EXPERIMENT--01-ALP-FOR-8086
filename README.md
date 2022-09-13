@@ -1,7 +1,4 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : VISHAL GOWTHAMAN K R 
-### Roll no : 212221230123
-### Date of experiment : 12.09.2022
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
@@ -26,6 +23,11 @@ This application is able to run programs on both PC desktops and laptops. This t
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 ## Programs for arithmetic  operations
+```
+Developed by : VISHAL GOWTHAMAN K R
+Registration Number : 212221230123
+```
+
 
 ## Addition of 8 bit numbers ALP 
 ```
